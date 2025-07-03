@@ -1,11 +1,3 @@
-# Expense-Tracker-App
-
-Looks like the file upload didn’t go through properly — sorry about the hassle!
-
-No worries — I’ll paste the full README content here formatted nicely, so you can copy it directly into your favorite editor (like Word, Google Docs, or any Markdown editor), then save or export as PDF yourself.
-
----
-
 # Expense Tracker App
 
 ## Description
