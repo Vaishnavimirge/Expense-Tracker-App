@@ -18,14 +18,11 @@ The Expense Tracker App is a simple, interactive web application that helps user
 ---
 
 ## Project Structure
-
-```
 Expense-Tracker-App/
 ├── index.html          # Main HTML page with UI structure
 ├── style.css           # (Optional) Stylesheet for styling the app (not provided here)
 ├── script.js           # JavaScript logic for handling transactions and chart updates
 └── README.md           # This file
-```
 
 ---
 
