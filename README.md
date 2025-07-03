@@ -23,8 +23,7 @@ Expense-Tracker-App/
  style.css           # (Optional) Stylesheet for styling the app (not provided here)
  script.js           # JavaScript logic for handling transactions and chart updates
  README.md           # This file
-
----
+ 
 
 ## How to Use
 
