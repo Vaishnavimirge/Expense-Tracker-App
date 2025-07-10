@@ -61,24 +61,8 @@ Expense-Tracker-App/
 
 ---
 
-## Possible Improvements
 
-* Persist data using browser local storage.
-* Add date/time to transactions.
-* Implement filters for better transaction management.
-* Enhance UI with animations and styles.
-* Add user authentication for data saving.
 
----
 
-## Credits
-
-Developed by \[Your Name]. Inspired by common expense tracker tutorials and personal finance apps.
-
----
-
-## License
-
-This project is open source and free to use.
 
 
